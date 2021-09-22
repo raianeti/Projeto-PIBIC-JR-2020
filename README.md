@@ -1,7 +1,8 @@
 # Projeto PIBIC Jr 2020
 
 ## Aplicando uma abordagem de Machine Learning baseada no algoritmo KNN para Detecção de Ataques Botnet em Redes IoT
-Trabalho desenvolvido no Programa Institucional de Iniciaçãi Científica Júnior PIBIC Jr/2020.
+Trabalho desenvolvido no Programa Institucional de Iniciação Científica Júnior PIBIC Jr/2020.
+Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE campus Boa Viagem.
 
 - O objetivo é desenvolver um mecanismo que aplique uma abordagem
 de Machine Learning baseada no algoritmo KNN voltado para a detecção de ataques botnet em redes IoT, de forma a selecionar o melhor valor do parâmetro K para o problema em questão.
