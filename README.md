@@ -31,7 +31,7 @@ Implementações
 - knn : contém um Jupyter Notebook .ipynb que apresenta a implementação do modelo KNN. Contém também um arquivo no formato .CSV que apresenta os resultados das métricas utilizadas na análise de desempenho dos modelos nas 50 rodadas/iterações.
 
 ## Resultados
-- Na pasta resultados contém um Jupyter Notebook .ipynb que reuni o resultado do models e gera as tabelas, boxplots e matrizes de confusão dos experimentos.
+- Resultados contém um Jupyter Notebook .ipynb que reuni o resultado do models e gera as tabelas, boxplots e matrizes de confusão dos experimentos.
 
 ## Autores
 - Raiane Santos 
